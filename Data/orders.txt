@@ -1,0 +1,28 @@
+Date and Time: 18:41 PM, 15/09/2025
+Order ID: ORD1757940074190
+========================================
+Customer: Maisha
+Address: Bashundhara
+Phone: 01756324891
+Restaurant: Hyderabad House
+Items:
+ - Dum Biryani (tk522.0 - Was tk580.0 - 10% OFF!)
+Subtotal: tk522
+Delivery: tk60
+Total: tk582
+========================================
+
+Date and Time: 23:33 PM, 15/09/2025
+Order ID: ORD1757957596965
+========================================
+Customer: Lam
+Address: Dhaka
+Phone: 01524796324
+Restaurant: Hyderabad House
+Items:
+ - Dum Biryani (tk522.0 - Was tk580.0 - 10% OFF!)
+Subtotal: tk522
+Delivery: tk60
+Total: tk582
+========================================
+
